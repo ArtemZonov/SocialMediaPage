@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        tvNameAvatar.text = tvNameAvatar.text
         val message = intent.getStringExtra("name")
         tvNameAvatar.text = message
 
