@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SocialMediaPage</string>
+
+    <string-array name="age">
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+    </string-array>
+
 </resources>
